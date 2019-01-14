@@ -14,3 +14,9 @@ CMakeCache.txt
 *.suo
 .vs/
 .vscode/
+.buckd
+buck-out
+buckaroo
+.buckconfig.d
+.buckconfig.local
+buckaroo_macros.bzl
